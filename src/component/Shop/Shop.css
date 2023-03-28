@@ -14,14 +14,5 @@
     gap: 45px;
 
 
-    @media (min-width: 640px) {
-        .products-container {
-          grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); /* for screens 1024px and above, display 3 columns */
-        }
-      }  
-}
+  }
 
-
-.cart-container{
-  
-}
